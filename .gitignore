@@ -42,6 +42,10 @@ ios/Pods/
 # Coverage
 coverage/
 
+# Sensitive files
+gemini_config.json
+*.env
+*.key
+
 # Exceptions
-!gemini_config.json
 !examples/*.json
